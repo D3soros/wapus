@@ -36,7 +36,6 @@ local folderName = "Phantom Forces Cheat"
 local connectionList = {}
 local callbackList = {}
 local playerStatus = {}
-local chatSpamLists = {}
 local customAudios = {}
 local cham = {}
 local unloadMain
